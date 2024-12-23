@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm lomvxi</h1>
 <h3 align="center">I have extensive experience in deep learning, data analysis, semantic segmentation, and multivariate time series analysis and prediction projects. I am proficient in TensorFlow, Pytorch deep learning frameworks, and proficient in using scientific computing libraries such as pandas and scikit learn. I have experience in Django development and have published multiple academic papers and software works in the fields of natural language processing, system design, and computer vision. I also have experience in writing and publishing English papers and can read English technical literature fluently</h3>
 
-- 🌱 I’m currently learning **Multivariate time series 、 Image recognition and SNN**
+- 🌱 I’m currently learning **Multivariate time series 、 LLM-base agent and SNN**
 
 - 📫 How to reach me **2692142131@qq.com or luozixun@hust.edu.cn**
 
