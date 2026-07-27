@@ -1,13 +1,108 @@
-<h1 align="center">Hi 👋, I'm lomvxi</h1>
-<h3 align="center">I have extensive experience in deep learning, data analysis, semantic segmentation, and multivariate time series analysis and prediction projects. I am proficient in TensorFlow, Pytorch deep learning frameworks, and proficient in using scientific computing libraries such as pandas and scikit learn. I have experience in Django development and have published multiple academic papers and software works in the fields of natural language processing, system design, and computer vision. I also have experience in writing and publishing English papers and can read English technical literature fluently</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **Multivariate time series 、 interacting risk of LLM-base multi agent system**
+# 👋 Hi, I'm lomvxi
 
-- 📫 How to reach me **2692142131@qq.com or luozixun@hust.edu.cn**
+### 🤖 AI Agent Researcher & Engineer
 
-<p align="left">
-</p>
+Focusing on  *AI Agent、 Multi agent systems, trusted autonomous execution, and complex engineering intelligence**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>  </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="[https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg](https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png)" alt="flask" width="40" height="40"/> </a>   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<br>
 
+![AI Agent](https://img.shields.io/badge/AI-Agent-4B8BBE?style=for-the-badge)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent-Systems-6A5ACD?style=for-the-badge)
+![Trustworthy AI](https://img.shields.io/badge/Trustworthy-AI-2E8B57?style=for-the-badge)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+I am a research-oriented engineering practitioner, mainly focusing on how to extend big language models from "dialogue tools" to intelligent agent systems that can plan, call tools, collaborate, and safely complete complex tasks in the long run
+
+My research and engineering work mainly revolve：
+
+* 🤖 AI Agent and multi-agent systems
+* 🛡️ Intelligent agent risk prediction, behavior auditing, and security control
+* 🧠 Agent Runtime、Task arrangement, memory and tool system
+* ⚙️ The application of LLM in industrial operation and maintenance, equipment health management, and financial quantification
+
+> **Building agents that can reason, act, collaborate, and remain trustworthy.**
+
+---
+
+## 🔬 Research Interests
+
+* 🛡️ **Trustworthy Autonomous Agents**
+* 👥 **Multi-Agent Systems**
+* 🧩 **Agent Runtime & Harness Engineering**
+* 🧠 **LLM Reasoning and Representation**
+* 📈 **Risk Modeling and Anomaly Detection**
+* ⚙️ **AI for Industrial Systems**
+* 💹 **Quantitative Research Agents**
+
+---
+
+## 🚀 Current Work
+
+Currently in progress：
+
+* 🌐 Research on Multi Agent Interaction Trajectory and Cascade Risk
+* 🔍 Low disturbance security review mechanism for long tasks
+* 🧱  Agent Runtime and Multi agent framework
+* ⚡ Intelligent operation and health management system for hydropower equipment
+* 📊 Financial multi-agent simulation and automatic factor research
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Engineering
+
+`Python` · `Backend Systems` · `Data Pipeline` · `Event-Driven Architecture`
+
+### AI & Agent Systems
+
+`LLM` · `AI Agent` · `Multi-Agent Systems` · `MCP` · `Tool Use`
+
+### Research
+
+`Graph Learning` · `Time Series` · `Risk Modeling` · `Agent Evaluation`
+
+### Infrastructure
+
+`Memory` · `Observability` · `Workflow Orchestration` · `Knowledge Systems`
+
+---
+
+## 📌 Focus
+
+```text
+Research
+├── Multi-Agent Interaction
+├── Trustworthy Autonomy
+├── Agent Safety & Auditing
+└── LLM Reasoning Dynamics
+
+Engineering
+├── Agent Runtime
+├── Task Orchestration
+├── Tool & Skill Systems
+└── Evidence & Deliverable Governance
+
+Applications
+├── Intelligent O&M
+├── Equipment Health Management
+└── Quantitative Research
+```
+
+---
+
+## 📫 Contact
+
+* ✉️ Email: `lomvxi@gmail.com`
+
+---
+
+
+​​
