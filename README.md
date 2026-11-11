@@ -98,11 +98,6 @@ Applications
 
 ---
 
-## 📫 Contact
-
-* ✉️ Email: `lomvxi@gmail.com`
-
----
 
 
 ​​
